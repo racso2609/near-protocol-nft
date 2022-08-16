@@ -1,0 +1,12 @@
+/home/racso/Programming/near/nft-implementation/contract/target/debug/deps/libthiserror_impl-8e0e48195f9c36cd.so: /home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/lib.rs /home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/ast.rs /home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/attr.rs /home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/expand.rs /home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/fmt.rs /home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/generics.rs /home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/prop.rs /home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/valid.rs
+
+/home/racso/Programming/near/nft-implementation/contract/target/debug/deps/thiserror_impl-8e0e48195f9c36cd.d: /home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/lib.rs /home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/ast.rs /home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/attr.rs /home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/expand.rs /home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/fmt.rs /home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/generics.rs /home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/prop.rs /home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/valid.rs
+
+/home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/lib.rs:
+/home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/ast.rs:
+/home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/attr.rs:
+/home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/expand.rs:
+/home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/fmt.rs:
+/home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/generics.rs:
+/home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/prop.rs:
+/home/racso/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.32/src/valid.rs:
